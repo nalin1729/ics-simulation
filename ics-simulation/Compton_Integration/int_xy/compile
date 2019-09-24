@@ -1,0 +1,2 @@
+rm -r compton3D.so build/
+python setup.py build_ext --inplace

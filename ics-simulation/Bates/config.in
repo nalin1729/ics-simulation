@@ -1,0 +1,13 @@
+﻿0         # IO flag: 1 if momenta read in from data file, 0 otherwise
+400       # number of particles
+1030e-9   # wavelength of incident laser [m]
+0.06      # field-strength parameter (a0) [no units]
+437       # width of laser [no units]
+35e6      # electron beam energy [eV]
+5e-4      # relative energy spread of the electron beam []
+1.46e-9   # non-normalized horizontal emittance [m rad]
+1.46e-9   # non-normalized vertical emittance [m rad]
+0.01      # aperture [rad]
+0.003     # betastar [m]
+0.013     # start [MeV] (put 0 for default value)
+0.014     # Range [MeV] (put 0 for default value)

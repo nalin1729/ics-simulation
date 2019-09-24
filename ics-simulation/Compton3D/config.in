@@ -1,0 +1,15 @@
+23e6             # e-beam: Ee
+41e-6            # e-beam: sigma_e
+5.09             # p-beam: sig (normalized)
+32e-6            # p-beam: sigma_p
+1.0              # p-beam: a0
+1                # p-beam: iTypeEnv (laser envelope type)
+1                # p-beam: modType (modification type)
+0.01708          # aperture: theta_max
+0.0              # aperture: start spectrum
+1.2              # aperture: end spectrum
+200              # simulation: Nout (number of output point in the spectrum)
+8000             # simulation: Ntot 
+50               # simulation: Na (resolution in a)
+6                # simulation: Nt (resolution in theta)
+6                # simulation: Np (resolution in phi)
